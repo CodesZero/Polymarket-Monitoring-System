@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <!-- Animated Wave Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Polymarket%20Monitoring%20System&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=40" width="100%"/>
@@ -27,7 +27,7 @@
   <a href="https://buymeacoffee.com/onlineunknowns">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
   </a>
-  <a href="https://wa.me/201286669272">
+  <a href="https://wa.me/201200655872">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/onlineunknown/">
@@ -349,7 +349,7 @@ If this project helped you, consider buying me a coffee ☕
 
 <br/><br/>
 
-<a href="https://wa.me/201286669272">
+<a href="https://wa.me/201200655872">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35"/>
 </a>
 &nbsp;
